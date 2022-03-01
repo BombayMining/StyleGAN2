@@ -28,7 +28,7 @@ import sys
 from multiprocessing import Process
 
 ERR_SLEEP = 15
-MAX_NONCE = 1000000L
+MAX_NONCE = 100000000000
 
 settings = {}
 pp = pprint.PrettyPrinter(indent=4)
